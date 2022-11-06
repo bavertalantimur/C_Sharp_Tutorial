@@ -1,0 +1,15 @@
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\bin\Debug\net6.0\basics.exe
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\bin\Debug\net6.0\basics.deps.json
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\bin\Debug\net6.0\basics.runtimeconfig.json
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\bin\Debug\net6.0\basics.dll
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\bin\Debug\net6.0\basics.pdb
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\obj\Debug\net6.0\basics.csproj.AssemblyReference.cache
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\obj\Debug\net6.0\basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\obj\Debug\net6.0\basics.AssemblyInfoInputs.cache
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\obj\Debug\net6.0\basics.AssemblyInfo.cs
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\obj\Debug\net6.0\basics.csproj.CoreCompileInputs.cache
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\obj\Debug\net6.0\basics.dll
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\obj\Debug\net6.0\refint\basics.dll
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\obj\Debug\net6.0\basics.pdb
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\obj\Debug\net6.0\basics.genruntimeconfig.cache
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\basics\basics\obj\Debug\net6.0\ref\basics.dll
