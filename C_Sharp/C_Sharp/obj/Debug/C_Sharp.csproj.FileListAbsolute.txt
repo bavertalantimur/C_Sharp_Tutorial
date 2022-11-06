@@ -1,0 +1,8 @@
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\C_Sharp\C_Sharp\bin\Debug\C_Sharp.dll
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\C_Sharp\C_Sharp\bin\Debug\C_Sharp.pdb
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\C_Sharp\C_Sharp\obj\Debug\C_Sharp.csproj.AssemblyReference.cache
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\C_Sharp\C_Sharp\obj\Debug\C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\C_Sharp\C_Sharp\obj\Debug\C_Sharp.dll
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\C_Sharp\C_Sharp\obj\Debug\C_Sharp.pdb
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\C_Sharp\C_Sharp\obj\Debug\C_Sharp.UserControl1.resources
+C:\Users\bawer\Desktop\C_Sharp_Tutorial\C_Sharp\C_Sharp\obj\Debug\C_Sharp.csproj.GenerateResource.cache
