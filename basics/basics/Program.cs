@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world")
+            string message="Hello";
+            Console.WriteLine(message);
+            Property p = new Property();
+            p.StudentId = 6;
+            Console.WriteLine(p.StudentId);
+
+
+
         }
 
     }
