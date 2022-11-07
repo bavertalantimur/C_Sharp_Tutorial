@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace basics
 {
@@ -16,6 +17,7 @@ namespace basics
             student.FirstName = "Baver";
             student.LastName = "Talantimur";
             student.GetFullName();
+            //DateTime
             DateTime dt1=new DateTime();
             DateTime dt2 = new DateTime(2020, 12, 31); 
             DateTime dt3=new DateTime(2020,12,31,10,12,15);
@@ -54,6 +56,57 @@ namespace basics
             Console.WriteLine("-----");
             DayOfWeek dayOfWeek = DateTime.Today.DayOfWeek;
             Console.WriteLine(dayOfWeek);
+            //ArrayList
+            ArrayList arlist = new ArrayList();
+            arlist.Add(1);
+            arlist.Add("baver");
+            arlist.Add("talantimur");
+            arlist.Add(4.5);
+            arlist.Add(null);
+            Queue myq=new Queue();
+            myq.Enqueue("Helloworld");
+            int[] arrays = { 100, 200, 300 };
+            
+
+            ArrayList arlist2=new ArrayList();
+            arlist2.AddRange(arlist); //  collection ekleme
+            arlist2.AddRange(arrays);
+            arlist2.AddRange(myq);
+            foreach(var item in arlist2)
+                Console.WriteLine(item);
+            /*for(int i = 0; i < arlist2.Count; i++)
+                Console.WriteLine(arlist2[i]);*/
+            Console.WriteLine("-----");
+
+            ArrayList arlist3 = new ArrayList()
+            {
+                1,"BAWER",300,4.5F
+            };
+            arlist3.Insert(1, "Second İtem"); //1.indexe second item ekle ;
+            foreach(var item in arlist3)
+                Console.WriteLine(item);
+
+            Console.WriteLine("-----");
+            ArrayList arlist4 = new ArrayList() { 
+                500,600,700
+            };
+            arlist4.InsertRange(2,arlist3); // 2. indexe arrlist3 ekle
+            foreach(var item in arlist4)
+                Console.WriteLine(item);
+
+            //remove islemleri
+
+
+            arlist4.RemoveRange(0, 2); // o ile ikinci index  dahil arasını kaldırır
+            arlist4.Remove(3);
+            arlist4.RemoveAt(1);// 1.index kaldırır
+            Console.WriteLine("-----");
+            foreach (var item in arlist4)
+                Console.WriteLine(item);
+
+            Console.WriteLine(arlist4.Contains(700));
+
+
 
 
 
